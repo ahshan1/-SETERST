@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class StickmanScript : MonoBehaviour
 {
-
+   
     public Rigidbody2D myRigidBody;
     public float moveSpeed = 10;
     public float jumpHeight = 3;
